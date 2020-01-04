@@ -1,2 +1,8 @@
-# Paris-0919-P2-Jardinage
-Que la force soit avec toi !
+# plantme-clone
+
+**Projet 2 : PlantMe** *(Novembre 2019)*
+
+Site qui aide les utilisateurs a avoir la main plus verte
++ Front : React, Sass
++ Utilisation de plusieurs API
++ SCRUM
